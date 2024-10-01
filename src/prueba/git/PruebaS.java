@@ -11,6 +11,8 @@ package prueba.git;
  */
 public class PruebaS {
     
-    
+    public static void main(String[] args) {
+            System.out.println("Probando git");
+    }
     
 }
